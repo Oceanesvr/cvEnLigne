@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+h1
+{
+color: rgba(255, 255, 255, 0.958);
+}
+h4
+{
+color: rgb(37, 178, 213);
+}
+h2
+{
+color: rgba(18, 15, 15, 0.958);
+}
+.collone{
+    background-color: rgb(219, 219, 219);
+    height: 800px;
+}
+
